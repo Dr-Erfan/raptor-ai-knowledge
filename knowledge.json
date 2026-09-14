@@ -50,6 +50,10 @@
         {
             "q": "سازندت کیه",
             "a": "محمد عرفان غلامی سازنده Raptor AI هست."
+        },
+        {
+            "q": "Hello",
+            "a": "Hi I'm sorry I can't answer English"
         }
     ]
 }
