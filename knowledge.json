@@ -335,6 +335,38 @@
             "answers": [
                 ""
             ]
+        },
+        {
+            "id": "English Todey",
+            "name": "جملات روزانه انگلیسی",
+            "description": "جملات روزانه انگلیسی با محدودیت",
+            "enabled": true,
+            "questions": [
+                "Hi",
+                "hi",
+                "Hello",
+                "hello",
+                "Are you ok",
+                "Raptor",
+                "Raptor ai",
+                "Hi raptor",
+                "Hello raptor",
+                "Hey Raptor",
+                "Good",
+                "Perfect"
+            ],
+            "keywords": [
+                "Hi",
+                "Hello",
+                "hey",
+                "raptor",
+                "ok",
+                "good",
+                "English"
+            ],
+            "answers": [
+                "Hello, I am a Raptor AI 1.1 mini. Persian language model, unfortunately I don't know English."
+            ]
         }
     ]
 }
